@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "404809677863",
+    "firebase_url": "https://rug-in-a-box-inventory-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rug-in-a-box-inventory",
+    "storage_bucket": "rug-in-a-box-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404809677863:android:801e9b075fff1664a4e202",
+        "android_client_info": {
+          "package_name": "com.example.qrinventorytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404809677863-o02rq36he84cdqci2cllu94a80bnkuuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrinventorytracker",
+            "certificate_hash": "4cb7d037922daf6268a40964dbdab9deaa7aedb7"
+          }
+        },
+        {
+          "client_id": "404809677863-ph1p1k4gn7c5ia2c27mjk6nhjgg9trap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOHip4ZBg1goo83jtd-aIyvJp0gW_rEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404809677863-ph1p1k4gn7c5ia2c27mjk6nhjgg9trap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404809677863:android:8df6dc93db24db5ca4e202",
+        "android_client_info": {
+          "package_name": "com.example.qrinventorytracker.ui.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404809677863-ph1p1k4gn7c5ia2c27mjk6nhjgg9trap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOHip4ZBg1goo83jtd-aIyvJp0gW_rEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404809677863-ph1p1k4gn7c5ia2c27mjk6nhjgg9trap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
